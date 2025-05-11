@@ -1,12 +1,13 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * 1"}] # Atualiza toda segunda-feira
-  workflow_dispatch: # Permite execução manual
-
+  schedule: [{cron: "0 0 * * 1"}] 
+  workflow_dispatch: 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - uses: lowlighter/metrics@latest
         with:
