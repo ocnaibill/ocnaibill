@@ -7,10 +7,11 @@
   <br><br>
 
 <p align="center">
-  <a href="https://github.com/ocnaibill">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=300&color=9F7AEA&multiline=true&width=900&height=230&lines=The+universe+has+a+beginning%2C+but+no+end.+%E2%80%94+Infinite.;The+stars+too+have+beginnings%2C;but+their+power+accompanies+their+decline.+%E2%80%94+Finite.;;It+is+the+wise+who+are+the+most+foolish.;History+has+taught+us+as+much.;;%E2%80%94+STEINS  GATE" alt="Citação animada de Steins;Gate" />
-  </a>
+  <a href="https://github.com/ocnaibill">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=300&color=9F7AEA&multiline=true&width=900&height=230&lines=The+universe+has+a+beginning%2C+but+no+end.+%E2%80%94+Infinite.;The+stars+too+have+beginnings%2C;but+their+power+accompanies+their+decline.+%E2%80%94+Finite.;;It+is+the+wise+who+are+the+most+foolish.;History+has+taught+us+as+much.;;%E2%80%94+STEINS+GATE" alt="Citação animada de Steins;Gate" />
+  </a>
 </p>
+
 
 <br>
 
@@ -92,3 +93,4 @@
 <p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Gráfico de Contribuições (Isocalendar)">
 </p>
+
